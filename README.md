@@ -1,2 +1,2 @@
 # MatplotlibFun
-Testing Matplotlib
+Testing Matplotlib with a for visualizing  
